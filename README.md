@@ -16,7 +16,7 @@ A device as you router with Upnp support and enabled it.
 ## GUI
 Screenshot
 
-![alt text](https://raw.githubusercontent.com/HomieStart/Upnp-Forwarding/main/resources/gui_screenshot.png "GUI Screenshot")
+![alt text](https://raw.githubusercontent.com/HomieStart/Upnp-Forwarding/master/resources/gui_screenshot.png "GUI Screenshot")
 
 ## CMD
 **You can directly use it with cmd using the arguments:**
